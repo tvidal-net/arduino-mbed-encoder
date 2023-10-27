@@ -7,7 +7,7 @@ Encoder e(PinName::p18, PinName::p19, PinMode::PullUp);
 
 void setup() {
   Serial.begin(115200);
-  Serial.println("\n\n\nencoder-read");
+  Serial.println("\n\n\nencoder-read-debounce-example");
 }
 
 void loop() {

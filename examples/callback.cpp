@@ -18,7 +18,7 @@ bool encoder_changed(int8_t ticks) {
 
 void setup() {
   Serial.begin(115200);
-  Serial.println("\n\n\nencoder-read");
+  Serial.println("\n\n\nencoder-callback-example");
 }
 
 void loop() {

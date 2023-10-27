@@ -5,7 +5,7 @@ Encoder e(PinName::p18, PinName::p19);
 
 void setup() {
   Serial.begin(115200);
-  Serial.println("\n\n\nencoder-read");
+  Serial.println("\n\n\nencoder-read-example");
 }
 
 void loop() {
