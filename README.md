@@ -11,7 +11,7 @@ platformio.ini:
 [env]
 framework = arduino
 lib_deps =
-    tvidal-net/arduino-mbed-encoder @ ^1.0.0
+    tvidal-net/arduino-mbed-encoder @ ^1.0.1
 
 [env:pico]
 board = pico
@@ -23,7 +23,7 @@ monitor_speed = 115200
 
 * [read](examples/read.cpp)
 * [read-debounce](examples/read-debounce.cpp)
-* [callback](examples/callback.cpp)
+* [callback](examples/callback/main.cpp)
 
 ### Source code
 
