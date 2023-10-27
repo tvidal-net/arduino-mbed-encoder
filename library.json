@@ -1,0 +1,21 @@
+{
+  "$schema": "https://raw.githubusercontent.com/platformio/platformio-core/develop/platformio/assets/schema/library.json",
+  "name": "Encoder",
+  "version": "1.0.0",
+  "description": "Arduino/mbed Encoder library for dual interrupt pins with debounce",
+  "keywords": "encoder, mbed, arduino, raspberry, pi, pico",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tvidal-net/arduino-mbed-encoder.git"
+  },
+  "authors": {
+    "name": "Thiago Vidal",
+    "email": "thiago@tvidal.net",
+    "url": "https://github.com/tvidal-net",
+    "maintainer": true
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/tvidal-net/arduino-mbed-encoder",
+  "frameworks": ["arduino"],
+  "platforms": ["raspberrypi"]
+}
