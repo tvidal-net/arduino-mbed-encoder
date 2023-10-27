@@ -21,8 +21,8 @@ monitor_speed = 115200
 
 ## Examples
 
-* [read](examples/read.cpp)
-* [read-debounce](examples/read-debounce.cpp)
+* [read](examples/read/main.cpp)
+* [read-debounce](examples/read-debounce/main.cpp)
 * [callback](examples/callback/main.cpp)
 
 ### Source code
