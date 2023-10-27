@@ -11,7 +11,7 @@ platformio.ini:
 [env]
 framework = arduino
 lib_deps =
-    arduino-mbed-encoder @ ^1.0.0
+    tvidal-net/arduino-mbed-encoder @ ^1.0.0
 
 [env:pico]
 board = pico
