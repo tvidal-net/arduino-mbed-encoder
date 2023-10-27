@@ -2,3 +2,5 @@
 .idea
 
 *.iml
+
+src/main.cpp
