@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/platformio/platformio-core/develop/platformio/assets/schema/library.json",
-  "name": "Encoder",
+  "name": "arduino-mbed-encoder",
   "version": "1.0.0",
   "description": "Arduino/mbed Encoder library for dual interrupt pins with debounce",
   "keywords": "encoder, mbed, arduino, raspberry, pi, pico",
