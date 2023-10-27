@@ -52,6 +52,8 @@ class Encoder {
   void DataChanged(int8_t delta);
 
   void Changed();
+
+  enum { Add = 1, Sub = -1 };
 };
 
 #endif //HELLO_PICO_INCLUDE_ENCODER_HPP_
